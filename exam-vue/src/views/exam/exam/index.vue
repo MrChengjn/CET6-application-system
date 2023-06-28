@@ -1,50 +1,12 @@
-<template>
-
-  <data-table
-    ref="pagingTable"
-    :options="options"
-    :list-query="listQuery"
-  >
-    <template #filter-content>
-
-      <el-select v-model="listQuery.params.openType" class="filter-item" placeholder="开放类型" clearable>
-        <el-option
-          v-for="item in openTypes"
-          :key="item.value"
-          :label="item.label"
-          :value="item.value"
-        />
-      </el-select>
-
-      <el-date-picker
-        v-model="listQuery.params.startTime"
-        class="filter-item"
-        value-format="yyyy-MM-dd"
-        type="date"
-        placeholder="考试开始时间"
-      />
-
-      <el-date-picker
-        v-model="listQuery.params.endTime"
-        class="filter-item"
-        value-format="yyyy-MM-dd"
-        type="date"
-        placeholder="考试结束时间"
-      />
-
-      <el-input v-model="listQuery.params.title" placeholder="搜索考试名称" style="width: 200px;" class="filter-item" />
-
-    </template>
-
     <template #data-columns>
 
       <el-table-column
-        label="考试名称"
+        label="考试项目"
         prop="title"
       />
 
       <el-table-column
-        label="考试类型"
+        label="应试对象"
         align="center"
       >
         <template v-slot="scope">
@@ -75,13 +37,7 @@
       />
 
       <el-table-column
-        label="及格线"
-        prop="qualifyScore"
-        align="center"
-      />
-
-      <el-table-column
-        label="状态"
+        label="是否可用"
         align="center"
       >
 
@@ -97,8 +53,8 @@
         width="220px"
       >
         <template v-slot="scope">
-          <el-button type="primary" size="mini" icon="el-icon-edit" @click="handleUpdateExam(scope.row.id)">修改</el-button>
-          <el-button type="warning" size="mini" icon="el-icon-user" @click="handleExamDetail(scope.row.id)">考试详情</el-button>
+          <el-button type="warning" size="mini" icon="el-icon-edit" @click="handleUpdateExam(scope.row.id)">变更内容</el-button>
+          <el-button type="primary" size="mini" icon="el-icon-user" @click="handleExamDetail(scope.row.id)">查看详情</el-button>
         </template>
       </el-table-column>
 
@@ -120,11 +76,11 @@ export default {
       openTypes: [
         {
           value: 1,
-          label: '完全开放'
+          label: '全专业开放'
         },
         {
           value: 2,
-          label: '指定部门'
+          label: '仅供特定专业'
         }
       ],
 
