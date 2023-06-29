@@ -11,8 +11,8 @@ import org.springframework.web.filter.CorsFilter;
 
 /**
  * 网关全局设置，允许跨域
- * @author bool
- * @date 2019-08-13 17:28
+ * @author 朱梓豪
+ * @date 2023-06-13 15:28
  */
 
 @Configuration

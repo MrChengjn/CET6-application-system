@@ -14,8 +14,8 @@ import java.util.Date;
 * 题库实体类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 程佳诺
+* @since 2023-06-05 19:33
 */
 @Data
 @TableName("el_repo")

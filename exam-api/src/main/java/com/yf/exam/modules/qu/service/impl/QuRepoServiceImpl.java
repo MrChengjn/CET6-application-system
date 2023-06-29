@@ -27,8 +27,8 @@ import java.util.List;
 * 语言设置 服务实现类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 朱梓豪
+* @since 2023-06-03 11:13
 */
 @Service
 public class QuRepoServiceImpl extends ServiceImpl<QuRepoMapper, QuRepo> implements QuRepoService {

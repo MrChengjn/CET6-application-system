@@ -12,8 +12,8 @@ import java.util.List;
 * 考试题库Mapper
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-09-05 11:14
+* @author 朱梓豪
+* @since 2023-06-14 11:14
 */
 public interface ExamRepoMapper extends BaseMapper<ExamRepo> {
 

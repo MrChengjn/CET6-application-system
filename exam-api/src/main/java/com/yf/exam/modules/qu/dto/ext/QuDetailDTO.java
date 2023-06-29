@@ -13,8 +13,8 @@ import java.util.List;
 * 问题题目请求类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 朱梓豪
+* @since 2023-06-05 13:23
 */
 @Data
 @ApiModel(value="问题题目详情", description="问题题目详情")

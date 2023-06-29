@@ -9,7 +9,7 @@ import lombok.Data;
 /**
  * 分页查询类
  * @param <T>
- * @author bool
+ * @author 汪晨
  */
 @ApiModel(value="分页参数", description="分页参数")
 @Data

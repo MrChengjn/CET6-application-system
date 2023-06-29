@@ -6,9 +6,9 @@ import java.security.MessageDigest;
 /**
  * MD5工具类
  * ClassName: MD5Util <br/>
- * date: 2018年1月13日 下午6:54:53 <br/>
+ * date: 2023年6月21日 下午6:54:53 <br/>
  *
- * @author Bool
+ * @author 汪晨
  * @version
  */
 public class Md5Util {

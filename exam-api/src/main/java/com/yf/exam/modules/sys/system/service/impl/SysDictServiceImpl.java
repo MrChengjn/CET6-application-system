@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * @author bool
+ * @author 汪晨
  */
 @Service
 public class SysDictServiceImpl implements SysDictService {

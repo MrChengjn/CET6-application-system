@@ -14,8 +14,8 @@ import java.util.Date;
 * 问题题目实体类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 朱梓豪
+* @since 2023-06-01 13:23
 */
 @Data
 @TableName("el_qu")

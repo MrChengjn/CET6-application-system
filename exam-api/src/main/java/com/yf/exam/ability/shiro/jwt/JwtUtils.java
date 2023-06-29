@@ -12,7 +12,7 @@ import java.util.Date;
 
 /**
  * JWT工具类
- * @author bool
+ * @author 汪晨
  */
 public class JwtUtils {
 

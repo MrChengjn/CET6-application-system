@@ -10,8 +10,7 @@ import java.util.Map;
 
 /**
  * 自定义过滤器，用于处理中文URL问题
- * 如：下载文件中包含中文会返回400错误，https://youdomain.com/upload/file/云帆考试系统用户手册.pdf
- * @author van
+ * @author 程佳诺
  */
 public class CNFilterFactoryBean extends ShiroFilterFactoryBean {
 

@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * 统一异常处理类
- * @author bool 
- * @date 2019-06-21 19:27
+ * @author 程佳诺
+ * @date 2023-06-21 15:27
  */
 @RestControllerAdvice
 public class ServiceExceptionHandler {

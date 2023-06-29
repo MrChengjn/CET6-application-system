@@ -3,9 +3,9 @@ package com.yf.exam.core.utils.passwd;
 /**
  * 密码实体
  * ClassName: PassInfo <br/>
- * date: 2018年2月13日 下午7:13:50 <br/>
+ * date: 2023年6月24日 下午7:13:50 <br/>
  *
- * @author Bool
+ * @author 朱梓豪
  * @version
  */
 public class PassInfo {

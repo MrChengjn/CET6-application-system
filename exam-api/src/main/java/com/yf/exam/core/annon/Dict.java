@@ -7,7 +7,7 @@ import java.lang.annotation.Target;
 
 /**
  * 数据字典注解
- * @author bool
+ * @author 朱梓豪
  */
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)

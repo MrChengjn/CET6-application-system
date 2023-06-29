@@ -20,8 +20,8 @@ import java.util.Collections;
 
 /**
  * Swagger配置
- * @author bool
- * @date 2020/8/19 20:53
+ * @author 汪晨
+ * @date 2023/6/17 20:53
  */
 @Configuration
 @EnableSwagger2
@@ -47,7 +47,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder().title("考试系统接口")
                 .description("考试系统接口")
-                .contact(new Contact("Van", "https://exam.yfhl.net", "18365918@qq.com"))
+                .contact(new Contact("程佳诺", "localhost:8101", ""))
                 .version("1.0.0")
                 .build();
     }

@@ -10,8 +10,8 @@ import java.lang.annotation.Target;
 
 /**
  * Excel注解定义
- * @author jeeplus
- * @version 2016-03-10
+ * @author 汪晨
+ * @version 2023-06-19
  */
 @Target({ElementType.METHOD, ElementType.FIELD, ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

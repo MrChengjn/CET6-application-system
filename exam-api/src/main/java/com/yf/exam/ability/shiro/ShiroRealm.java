@@ -24,7 +24,7 @@ import java.util.List;
 
 /**
  * 用户登录鉴权和获取用户授权
- * @author bool
+ * @author 程佳诺
  */
 @Component
 @Slf4j

@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  * 字段类型转换
- * @author jeeplus
- * @version 2016-5-29
+ * @author 汪晨
+ * @version 2023-6-24
  */
 public class ListType {
 

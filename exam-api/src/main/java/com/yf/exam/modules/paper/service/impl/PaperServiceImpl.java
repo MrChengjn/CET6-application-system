@@ -58,8 +58,8 @@ import java.util.*;
 * 语言设置 服务实现类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 16:33
+* @author 朱梓豪
+* @since 2023-05-25 15:21
 */
 @Service
 public class PaperServiceImpl extends ServiceImpl<PaperMapper, Paper> implements PaperService {
