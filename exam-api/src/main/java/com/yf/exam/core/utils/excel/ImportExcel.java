@@ -32,8 +32,8 @@ import java.util.List;
 
 /**
  * 导入Excel文件（支持“XLS”和“XLSX”格式）
- * @author jeeplus
- * @version 2016-03-10
+ * @author 汪晨
+ * @version 2023-06-20
  */
 public class ImportExcel {
 	

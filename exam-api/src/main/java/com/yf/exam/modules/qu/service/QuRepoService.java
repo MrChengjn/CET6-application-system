@@ -14,8 +14,8 @@ import java.util.List;
 * 试题题库业务类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 朱梓豪
+* @since 2023-06-05 06:23
 */
 public interface QuRepoService extends IService<QuRepo> {
 

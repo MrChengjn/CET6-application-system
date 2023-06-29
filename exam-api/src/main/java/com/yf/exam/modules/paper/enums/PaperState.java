@@ -3,8 +3,8 @@ package com.yf.exam.modules.paper.enums;
 
 /**
  * 试卷状态
- * @author bool 
- * @date 2019-10-30 13:11
+ * @author 程佳诺
+ * @date 2023-05-20 13:11
  */
 public interface PaperState {
 

@@ -9,8 +9,8 @@ import javax.servlet.MultipartConfigElement;
 
 /**
  * 文件上传配置
- * @author bool
- * @date 2019-07-29 16:23
+ * @author 汪晨
+ * @date 2023-06-15 12:23
  */
 @Configuration
 public class MultipartConfig {

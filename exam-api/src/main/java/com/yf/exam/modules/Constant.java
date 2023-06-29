@@ -3,7 +3,7 @@ package com.yf.exam.modules;
 
 /**
  * 通用常量
- * @author bool
+ * @author 汪晨
  */
 public class Constant {
 

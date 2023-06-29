@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
 /**
- * @author bool
+ * @author 汪晨
  */
 @Data
 @ApiModel(value="查找试卷题目详情请求类", description="查找试卷题目详情请求类")

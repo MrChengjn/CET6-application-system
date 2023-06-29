@@ -24,7 +24,7 @@ import java.util.Map;
 
 /**
  * Shiro配置类
- * @author bool
+ * @author 朱梓豪
  */
 @Slf4j
 @Configuration

@@ -11,8 +11,8 @@ import java.io.Serializable;
 * 考试题库数据传输类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-09-05 11:14
+* @author 程佳诺
+* @since 2023-06-16 11:14
 */
 @Data
 @ApiModel(value="考试题库", description="考试题库")

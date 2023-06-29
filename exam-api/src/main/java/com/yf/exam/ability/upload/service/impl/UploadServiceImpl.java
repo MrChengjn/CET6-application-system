@@ -26,8 +26,8 @@ import java.util.regex.Pattern;
 
 /**
  * 文件上传业务类
- * @author bool
- * @date 2019-07-30 21:02
+ * @author 汪晨
+ * @date 2023-06-13 20:02
  */
 @Log4j2
 @Service

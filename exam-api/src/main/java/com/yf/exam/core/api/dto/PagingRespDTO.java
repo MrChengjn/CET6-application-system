@@ -4,8 +4,8 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 
 /**
  * 分页响应类
- * @author bool 
- * @date 2019-07-20 15:17
+ * @author 汪晨
+ * @date 2023-06-20 19:17
  * @param <T>
  */
 public class PagingRespDTO<T> extends Page<T> {

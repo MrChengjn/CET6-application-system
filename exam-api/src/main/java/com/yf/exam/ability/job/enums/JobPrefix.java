@@ -2,7 +2,7 @@ package com.yf.exam.ability.job.enums;
 
 /**
  * 任务前缀
- * @author bool
+ * @author 程佳诺
  */
 public interface JobPrefix {
 

@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 用于导出的数据结构
- * @author bool
+ * @author 朱梓豪
  */
 @Data
 public class QuImportDTO {

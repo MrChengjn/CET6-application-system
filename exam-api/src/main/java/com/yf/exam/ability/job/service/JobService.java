@@ -2,8 +2,8 @@ package com.yf.exam.ability.job.service;
 
 /**
  * 任务业务类，用于动态处理任务信息
- * @author bool
- * @date 2020/11/29 下午2:17
+ * @author 程佳诺
+ * @date 2023/6/10 下午2:17
  */
 public interface JobService {
 

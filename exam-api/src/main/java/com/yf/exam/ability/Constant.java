@@ -3,7 +3,7 @@ package com.yf.exam.ability;
 
 /**
  * 通用常量
- * @author bool
+ * @author 程佳诺
  */
 public class Constant {
 

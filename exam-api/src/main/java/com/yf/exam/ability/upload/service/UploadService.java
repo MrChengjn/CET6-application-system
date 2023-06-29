@@ -7,9 +7,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * 阿里云OSS业务类
- * @author bool 
- * @date 2019-07-12 16:45
+ * OSS业务类
+ * @author 朱梓豪
+ * @date 2023-06-12 13:45
  */
 public interface UploadService {
 

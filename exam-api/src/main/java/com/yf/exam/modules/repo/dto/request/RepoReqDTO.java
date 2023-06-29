@@ -12,8 +12,8 @@ import java.util.List;
 * 题库请求类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-05-25 13:23
+* @author 汪晨
+* @since 2023-06-05 08:03
 */
 @Data
 @ApiModel(value="题库分页请求类", description="题库分页请求类")

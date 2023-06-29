@@ -5,8 +5,8 @@ import java.util.Date;
 
 /**
  * 时间转换quartz表达式
- * @author bool
- * @date 2020/11/29 下午3:00
+ * @author 朱梓豪
+ * @date 2023/6/24 下午3:05
  */
 public class CronUtils {
 

@@ -14,10 +14,9 @@ import java.net.UnknownHostException;
 import java.util.List;
 
 /**
- * 云帆在线考试系统
- * @author bool
- * @email 18365918@qq.com
- * @date 2020-03-04 19:41
+ * 英语六级在线考试系统
+ * @author 程佳诺
+ * @date 2023-05-21 14:23
  */
 @Log4j2
 @SpringBootApplication
@@ -37,7 +36,7 @@ public class ExamApplication implements WebMvcConfigurer {
 
 
 		log.info("\n----------------------------------------------------------\n\t" +
-				"云帆考试系统启动成功，访问路径如下:\n\t" +
+				"英语六级在线考试系统启动成功，访问路径如下:\n\t" +
 				"本地路径: \t\thttp://localhost:" + port + path + "/\n\t" +
 				"网络地址: \thttp://" + ip + ":" + port + path + "/\n\t" +
 				"API文档: \t\thttp://" + ip + ":" + port + path + "/doc.html\n" +

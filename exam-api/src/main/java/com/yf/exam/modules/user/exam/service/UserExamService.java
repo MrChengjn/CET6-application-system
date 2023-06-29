@@ -12,8 +12,8 @@ import com.yf.exam.modules.user.exam.entity.UserExam;
 * 考试记录业务类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-09-21 15:13
+* @author 汪晨
+* @since 2023-06-16 15:13
 */
 public interface UserExamService extends IService<UserExam> {
 

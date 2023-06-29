@@ -12,8 +12,8 @@ import lombok.Data;
 * 考试部门实体类
 * </p>
 *
-* @author 聪明笨狗
-* @since 2020-09-03 17:24
+* @author 程佳诺
+* @since 2023-06-13 17:24
 */
 @Data
 @TableName("el_exam_depart")
