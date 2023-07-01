@@ -9,12 +9,13 @@
           Oops!
         </h1>
         gif来源<a href="https://zh.airbnb.com/" target="_blank">airbnb</a> 页面
-        <h2>你没有权限访问该页面</h2>
+        <h2>你没有权限去该页面</h2>
+        <h6>如有不满请联系你领导</h6>
         <ul class="list-unstyled">
-          <li>或者你可以点击:</li>
+          <li>或者你可以去:</li>
           <li class="link-type">
             <router-link to="/dashboard">
-              回到首页
+              回首页
             </router-link>
           </li>
           <li class="link-type">
